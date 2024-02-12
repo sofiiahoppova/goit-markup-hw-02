@@ -14,7 +14,7 @@ ul, ol{
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     
@@ -54,7 +54,7 @@ ul, ol{
     background-color: #2e2f42;
 }
 .main-title{
-
+    text-align: center;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -92,11 +92,17 @@ ul, ol{
     background-color: #f4f4fd;
 }
 .section-title{
+    text-align: center;
+    text-transform: capitalize;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
+}
+
+.our-team-list{
+    background-color: #fff;
 }
 
 .our-team-list-title{
